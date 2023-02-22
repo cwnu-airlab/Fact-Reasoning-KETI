@@ -3,16 +3,21 @@
 비정형 텍스트를 학습하여 쟁점별 사실과 논리적 근거 추론이 가능한 인공지능 원천기술
 Artificial intelligence technology inferring issues and logically supporting facts from raw text
 
-## 기술개발 목표
+#### History
+* (2021.04.28) FIRST INIT by 성수진
+* (2021.04.30) dummy system 초안 작성by 김산
+* (2021.05.06) 수정 by 성수진
 
-<img src='https://tva1.sinaimg.cn/large/008i3skNgy1gpzt8dpbexj30ud0u0hdt.jpg' width=70%>
+#### example
+
+* [t5 ner example](./example/) 
 
 
-## 정량 실적
+#### 관련 링크
 
-#### 성능지표
-
-  | **평가항목**                                       | **단위**      | **세계최고** **보유국/보유기업**              | **연구개발 전 국내수준** | **1차년도 목표치** | **최종개발 목표치** | 평가방법                             |
-  | -------------------------------------------------- | ------------- | --------------------------------------------- | ------------------------ | ------------------ | ------------------- | ------------------------------------ |
-  | 3. 질의 내용 기반 근거 문서 검색 정확도            | EM            | 63.82 (중국/Kingsoft AL Lab.)                 | -                        | **64**             | **65**              | 최종년도 공인인증 / 1차년도 자체평가 |
-  | 4. 문서 내 지식 관계를 추출하는 기술               | F1            | 63.4 (미국/USC, Stanford Univ.)               | -                        | **65**             | **70**              | 최종년도 공인인증 / 1차년도 자체평가 |
+* 파일 공유: [구글 드라이브](https://drive.google.com/drive/folders/1abwTalLiAhGk3c4CdMgxJtUf53fRzWzP?usp=sharing)
+* 공개 github
+  * https://github.com/cwnu-airlab/Fact-Reasoning-CWNU
+  * https://github.com/cwnu-airlab/Fact-Reasoning-KETI
+  * https://github.com/cwnu-airlab/Fact-Reasoning-YONSEI
+  * https://github.com/cwnu-airlab/Fact-Reasoning-POSTECH
