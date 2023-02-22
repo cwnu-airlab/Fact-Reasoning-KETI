@@ -1,0 +1,6 @@
+transformers
+sentencepiece
+datasets
+tqdm
+sklearn
+accelerate
