@@ -3,7 +3,6 @@ import requests
 from urllib.parse import urljoin
 
 URL = 'http://ketiair.com:10022/'
-URL = 'http://127.0.0.1:12344/'
 
 # test task_list
 task_list_q = '/api/task_list'
